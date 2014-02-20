@@ -11,10 +11,11 @@ public class jfram {
 		
 		 crearVentana ventana =new crearVentana();
 		
-		 ventana.setAltura(200);
-		 ventana.setAncho(300);
-		 ventana.setTitulo("ventana");
+		 ventana.setAltura(500);
+		 ventana.setAncho(500);
+		 ventana.setTitulo("******UABCS*****");
 		 ventana.mostra();
+		 
 		 
 		 
 	}
