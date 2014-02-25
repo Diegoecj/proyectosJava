@@ -16,7 +16,7 @@ public class jfram {
 		 ventana.setTitulo("******UABCS*****");
 		 ventana.mostra();
 		 
-		 
+		//calculadora para la suma resta multiplicacion y7 divivion GridLayout
 		 
 	}
 
